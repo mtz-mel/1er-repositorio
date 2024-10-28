@@ -1,4 +1,5 @@
 # 1. Ecuación cuadrática
+#Modificacion de ecoli
 
 ## Elabora un programa en R, profusamente comentado, que dados los valores de
 ## los coeficientes de una ecuación cuadrática, es decir, los valores de a, b,
